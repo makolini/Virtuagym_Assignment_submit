@@ -1,8 +1,10 @@
 ## Main Files 📁
 - `Assignment.py`: Main file that answers the Assignment
 - `gym_assignment.sqlite`: SQLite database
-- `query_gym_data.py`: Python script for database queries
 - `Dashboard.PNG`: Images of the gym manager dashboard
+- `Gym_assignment_db.pdf`: PDF of the conceptual relational database, with attributes. Made with https://dbdiagram.io
+- `fetch.py`: Python script for accessing encrypted data from server
+- `gym.db`: Fetched (starting point) database, in SQLite
 
 ## Dashboard 📊
 Analytics dashboard built with v0.dev, providing visual insights into:
